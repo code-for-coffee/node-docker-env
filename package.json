@@ -1,0 +1,12 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "Node on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
