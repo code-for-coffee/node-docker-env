@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official Node.js runtime as a parent image
 FROM node:8
 
 # Create app directory
